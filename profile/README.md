@@ -18,7 +18,9 @@ new Anthropic({ apiKey: ANTHROPIC_KEY })    new Anthropic({ baseURL: "https://ap
 | | |
 |---|---|
 | **Product** | [How the gateway works](https://sparringhq.com/product/gateway/) · [Arena (red‑team & CI gate)](https://sparringhq.com/product/arena/) · [Practice](https://sparringhq.com/product/practice/) |
+| **Open source** | [`cloud-marketplace-saas`](https://github.com/sparring-hq/cloud-marketplace-saas) — Google Cloud Marketplace + AWS Marketplace integration helpers for SaaS sellers (what we learned shipping two listings) · [`examples`](https://github.com/sparring-hq/examples) — runnable gateway examples |
 | **Developers** | [Documentation](https://sparringhq.com/docs/) · [OpenAPI 3.1](https://app.sparringhq.com/api/v1/openapi.json) · [`/v1/health`](https://app.sparringhq.com/api/v1/health) · [Examples →](https://github.com/sparring-hq/examples) |
+| **Also by us** | [Carnegie Relay](https://carnegieintel.com/relay/) — AI gateway & governance (budgets, guardrails, traces) on Google Cloud Marketplace and AWS Marketplace |
 | **Buy** | [Pricing](https://sparringhq.com/pricing/) · Google Cloud Marketplace (listing in review) |
 | **Trust** | [Security](https://sparringhq.com/security/) · [Status](https://status.sparringhq.com) · [DPA](https://sparringhq.com/legal/dpa/) · [AUP](https://sparringhq.com/legal/aup/) · [Sub‑processors](https://sparringhq.com/legal/subprocessors/) |
 | **Standard** | [Sparring Conversation Standard v1.0](https://sparringhq.com/standard/) — 5 competencies, 34 skills, evidence rule |
